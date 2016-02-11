@@ -8,3 +8,65 @@ and open the template in the editor.
     Author     : galiberr
 */
 
+body {
+        background-image: url(../images/pageBackground.jpg);
+        background-repeat: repeat;
+        text-align: center;
+        font-family: Hanzel, Geneva,Arial,Helvetica,sans-serif;
+}
+
+h1 {
+        
+}
+
+h2 {
+        
+}
+
+div.pageContainer {
+        margin: 0 auto;
+        text-align: left;
+}
+
+table.intro {
+        
+}
+
+td.myPic {
+        padding: 20px;
+}
+
+td.intro {
+        width: 800px;
+}
+
+table.projectLinks {
+        
+}
+
+th.projectName {
+        width: 100px;
+        text-align: center;
+}
+
+th.liveLink {
+        width: 250px;
+        text-align: center;
+}
+
+th.githubLink {
+        width: 250px;
+        text-align: center;
+}
+
+td.projectName {
+        text-align: center;
+}
+
+td.liveLink {
+        text-align: center;
+}
+
+td.githubLink {
+        text-align: center;
+}
