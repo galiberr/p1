@@ -1,20 +1,18 @@
-# xkcd Password Generator
+# Project 1 Basic HTML/CSS Web Page, Proof of Concept
 
 ## Live URL
-<http://p2.dwa15.com>
+<http://p1.pyxisweb.me>
 
 ## Description
-A simple utility for generating [xkcd style passwords](http://xkcd.com/936/).
+The project is a basic web page which includes a photo of a Dynamic Web Applications student and placeholder elements for links (live links and Github code repositories) for course projects.
 
-## Demo
-<https://www.youtube.com/watch?v=RoqrD9ZD0N4&feature=youtu.be>
+The main purpose of the project is to implement the basic configuration over the three main systems (user system, Github and Digital Ocean live server) required for developing/testing projects for the remainder of the Dynamic Web Applications course, and to become familiar with the general workflow for course projects.
 
-## Details for teaching team
-No login required.
+## Project 1 Screencast
+<http://screencast.com/t/hxFr2veLB>
 
-The file `word-scrape.php` was used to generate the word list.
+## Details for Teaching Team
+Page links open in a new browser tab.
 
-## Outside code
-* Word list: http://www.paulnoll.com/Books/Clear-English/
-* Bootstrap: http://getbootstrap.com/
-* Bootstrap Theme: http://bootswatch.com/flatly/
+## Outside Code
+None.

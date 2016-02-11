@@ -1,12 +1,9 @@
 /*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : Feb 10, 2016, 7:39:07 PM
-    Author     : galiberr
-*/
+ * Author:	  Roland Galibert
+ * Date:	  February 11, 2016
+ * For:	  	  CSCI E-15 Dynamic Web Applications, Spring 2016 - Project 1
+ * Purpose:  	  Basic web page created and pushed to live server and Github (see Project 1 specifications for details)
+ */
 
 body {
         background-image: url(../images/pageBackground.jpg);
@@ -16,7 +13,7 @@ body {
 }
 
 h1 {
-        
+        font-size: 28px;
 }
 
 h2 {
@@ -29,7 +26,12 @@ div.pageContainer {
 }
 
 table.intro {
-        
+	border-top-style: double;
+	border-bottom-style: double;
+	border-top-width: 3px;
+	border-bottom-width: 3px;
+	border-top-color: #cc0033;
+	border-bottom-color: #cc0033;
 }
 
 td.myPic {
@@ -41,7 +43,8 @@ td.intro {
 }
 
 table.projectLinks {
-        
+        padding-top: 10px;
+        padding-bottom: 10px;
 }
 
 th.projectName {
